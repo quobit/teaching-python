@@ -1,2 +1,2 @@
 # teachingpython
-Useful resources for teaching Python
+Opinionated list of resources for teaching Python
